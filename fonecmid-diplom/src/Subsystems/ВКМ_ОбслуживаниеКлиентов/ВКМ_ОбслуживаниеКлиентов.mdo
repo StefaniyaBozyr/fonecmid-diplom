@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f9ab8f6b-af35-4b8c-aa3a-973e98a7574f">
+  <name>ВКМ_ОбслуживаниеКлиентов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Обслуживание клиентов</value>
+  </synonym>
+  <comment>Бозырь С.Р. 10.07.2025</comment>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Catalog.Контрагенты</content>
+  <content>Catalog.ДоговорыКонтрагентов</content>
+  <content>Document.ВКМ_ОбслуживаниеКлиента</content>
+  <content>Role.ВКМ_ЧтениеОбслуживанийКлиентов</content>
+  <content>Role.ВКМ_ДобавлениеИзменениеОбслуживанийКлиентов</content>
+  <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
+</mdclass:Subsystem>

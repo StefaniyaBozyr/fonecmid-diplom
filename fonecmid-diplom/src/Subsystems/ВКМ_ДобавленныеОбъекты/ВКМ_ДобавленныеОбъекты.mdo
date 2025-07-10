@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d8d92fd9-2603-479e-aee0-3492556c35c6">
+  <name>ВКМ_ДобавленныеОбъекты</name>
+  <synonym>
+    <key>ru</key>
+    <value>Добавленные объекты</value>
+  </synonym>
+  <comment>Бозырь С.Р. 09.07.2025</comment>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Document.ВКМ_ОбслуживаниеКлиента</content>
+  <content>Role.ВКМ_ЧтениеОбслуживанийКлиентов</content>
+  <content>Role.ВКМ_ДобавлениеИзменениеОбслуживанийКлиентов</content>
+  <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
+</mdclass:Subsystem>
