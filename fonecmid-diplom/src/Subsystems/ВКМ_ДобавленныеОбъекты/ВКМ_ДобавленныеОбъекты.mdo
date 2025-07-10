@@ -12,4 +12,5 @@
   <content>Role.ВКМ_ЧтениеОбслуживанийКлиентов</content>
   <content>Role.ВКМ_ДобавлениеИзменениеОбслуживанийКлиентов</content>
   <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
+  <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
 </mdclass:Subsystem>
