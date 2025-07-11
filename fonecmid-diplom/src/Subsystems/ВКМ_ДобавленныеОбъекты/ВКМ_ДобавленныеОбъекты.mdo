@@ -13,4 +13,7 @@
   <content>Role.ВКМ_ДобавлениеИзменениеОбслуживанийКлиентов</content>
   <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
   <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
+  <content>ScheduledJob.ВКМ_ОтправкаУведомленийВТелеграм</content>
+  <content>Constant.ВКМ_ТокенБотаТелеграм</content>
+  <content>Constant.ВКМ_ИдентификаторГруппыТелеграм</content>
 </mdclass:Subsystem>
