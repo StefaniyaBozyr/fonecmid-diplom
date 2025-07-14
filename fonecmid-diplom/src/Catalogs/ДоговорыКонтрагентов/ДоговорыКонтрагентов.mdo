@@ -191,7 +191,7 @@
     <dataHistory>Use</dataHistory>
   </attributes>
   <attributes uuid="43580ffb-65d5-47d9-b55a-86c76c7dce55">
-    <name>СуммаАбонентскойПлаты</name>
+    <name>ВКМ_СуммаАбонентскойПлаты</name>
     <synonym>
       <key>ru</key>
       <value>Сумма абон. платы</value>
@@ -212,7 +212,7 @@
     <dataHistory>Use</dataHistory>
   </attributes>
   <attributes uuid="2f50a5e1-65d8-4bf2-bd61-59a9f4fb2238">
-    <name>СтоимостьЧасаРаботы</name>
+    <name>ВКМ_СтоимостьЧасаРаботы</name>
     <synonym>
       <key>ru</key>
       <value>Стоимость часа работы</value>

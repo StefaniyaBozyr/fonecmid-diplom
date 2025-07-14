@@ -15,6 +15,7 @@
   </synonym>
   <comment>Бозырь С.Р. 10.07.2025</comment>
   <useStandardCommands>true</useStandardCommands>
+  <registerType>Turnovers</registerType>
   <dataLockControlMode>Managed</dataLockControlMode>
   <enableTotalsSplitting>true</enableTotalsSplitting>
   <resources uuid="4dafee83-0a7f-4c08-b400-179407cc2721">

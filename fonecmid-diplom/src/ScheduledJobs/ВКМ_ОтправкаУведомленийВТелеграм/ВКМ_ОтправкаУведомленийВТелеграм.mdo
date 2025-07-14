@@ -3,7 +3,7 @@
   <name>ВКМ_ОтправкаУведомленийВТелеграм</name>
   <synonym>
     <key>ru</key>
-    <value>ВКМ отправка уведомлений в телеграм</value>
+    <value>Отправка уведомлений в телеграм</value>
   </synonym>
   <comment>Бозырь С.Р. 11.07.2025</comment>
   <methodName>CommonModule.ВКМ_Телеграм.ВКМ_ОтправкаУведомленийВТелеграм</methodName>
