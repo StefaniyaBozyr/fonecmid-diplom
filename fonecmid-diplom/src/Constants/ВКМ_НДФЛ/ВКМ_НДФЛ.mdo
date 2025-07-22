@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="dc2a552a-8a7f-4eb5-981e-40ceb21aa77f">
+  <producedTypes>
+    <managerType typeId="5380c2d0-7ca2-40d2-959a-d5ae85fff553" valueTypeId="320ac416-08c2-4c00-88ba-b45b7c259bfd"/>
+    <valueManagerType typeId="cb9d61d5-20ef-4eaa-ae94-a12d591eddf7" valueTypeId="eee929a5-61ac-4aab-8323-f553573a6fca"/>
+    <valueKeyType typeId="6f6f8156-0974-44d3-9706-bf3ca2d7cb51" valueTypeId="50b80019-a123-424c-a030-b08b3840979b"/>
+  </producedTypes>
+  <name>ВКМ_НДФЛ</name>
+  <synonym>
+    <key>ru</key>
+    <value>Размер НДФЛ</value>
+  </synonym>
+  <comment>Бозырь С.Р. 21.07.2025</comment>
+  <type>
+    <types>Number</types>
+    <numberQualifiers>
+      <precision>5</precision>
+      <scale>2</scale>
+      <nonNegative>true</nonNegative>
+    </numberQualifiers>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

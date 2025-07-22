@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="205b93f8-7310-420c-ba85-43d2e0a7b5c2">
+  <producedTypes>
+    <refType typeId="1e5657d7-72e2-4ca2-8e18-1a7c2dcc65fe" valueTypeId="12cc1521-b116-4f90-ac59-0080d4d70801"/>
+    <listType typeId="61941797-b7dc-4fb3-a3d1-280c47330dfe" valueTypeId="c5a32667-b0d8-4b86-9684-a2c305f35652"/>
+    <managerType typeId="ae5c56ff-36ac-48e5-b230-3a42148e9c38" valueTypeId="e7db27dd-1be0-4c6d-a489-0e19ea2dcfce"/>
+  </producedTypes>
+  <name>ВКМ_КатегорииСотрудников</name>
+  <synonym>
+    <key>ru</key>
+    <value>Категории сотрудников</value>
+  </synonym>
+  <comment>Бозырь С.Р. 18.07.2025</comment>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="f8879bec-f536-4645-ab71-f30cce998ee8">
+    <name>Специалисты</name>
+    <synonym>
+      <key>ru</key>
+      <value>Специалисты</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="f5dfee47-eec8-441d-bb44-8a76e0873e7d">
+    <name>АдминистративныйПерсонал</name>
+    <synonym>
+      <key>ru</key>
+      <value>Административный персонал</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>
