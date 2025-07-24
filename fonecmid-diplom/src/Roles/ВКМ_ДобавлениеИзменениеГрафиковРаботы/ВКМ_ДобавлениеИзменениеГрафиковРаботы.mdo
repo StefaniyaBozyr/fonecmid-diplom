@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="cd24ee81-7c4e-4fd0-a12b-b45711ebd52a">
+  <name>ВКМ_ДобавлениеИзменениеГрафиковРаботы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Добавление и изменение графиков работы</value>
+  </synonym>
+  <comment>Бозырь С.Р. 24.07.2025</comment>
+</mdclass:Role>

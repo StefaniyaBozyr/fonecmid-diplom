@@ -632,6 +632,17 @@
   <roles>Role.ВКМ_ЧтениеОбслуживанийКлиентов</roles>
   <roles>Role.ВКМ_ДобавлениеИзменениеОбслуживанийКлиентов</roles>
   <roles>Role.ВКМ_ИспользованиеОбработкиМассовогоСозданияРТУ</roles>
+  <roles>Role.ВКМ_ИспользованиеОбработкиЗаполненияГрафикаРаботы</roles>
+  <roles>Role.ВКМ_ЧтениеФизическихЛиц</roles>
+  <roles>Role.ВКМ_ДобавлениеИзменениеФизическихЛиц</roles>
+  <roles>Role.ВКМ_ЧтениеРасчетаЗарплаты</roles>
+  <roles>Role.ВКМ_ЧтениеГрафикаОтпусков</roles>
+  <roles>Role.ВКМ_ДобавлениеИзменениеРасчетаЗарплаты</roles>
+  <roles>Role.ВКМ_ДобавлениеИзменениеГрафикаОтпусков</roles>
+  <roles>Role.ВКМ_ЧтениеГрафиковРаботы</roles>
+  <roles>Role.ВКМ_ДобавлениеИзменениеГрафиковРаботы</roles>
+  <roles>Role.ВКМ_ЧтениеУсловийОплатыСотрудников</roles>
+  <roles>Role.ВКМ_ДобавлениеИзменениеУсловийОплатыСотрудников</roles>
   <commonTemplates>CommonTemplate.ДанныеПечатиОбщиеРеквизиты</commonTemplates>
   <commonTemplates>CommonTemplate.ДанныеПечатиРегистрСимволов</commonTemplates>
   <commonTemplates>CommonTemplate.ИнструкцияКакВыполнитьНастройкуМакетаOfficeOpen</commonTemplates>
@@ -1243,6 +1254,7 @@
   <documents>Document.ВКМ_НачисленияЗарплаты</documents>
   <documents>Document.ВКМ_НачислениеФиксированнойПремии</documents>
   <documents>Document.ВКМ_ВыплатаЗарплаты</documents>
+  <documents>Document.ВКМ_ГрафикОтпусков</documents>
   <documentJournals>DocumentJournal.Деньги</documentJournals>
   <enums>Enum.ВариантыОтображенияМеток</enums>
   <enums>Enum.ВариантыОчисткиФайлов</enums>
