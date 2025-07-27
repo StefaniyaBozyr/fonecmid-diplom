@@ -20,6 +20,8 @@
   <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
   <content>Constant.ВКМ_НоменклатураАбонентскаяПлата</content>
   <content>Constant.ВКМ_НоменклатураРаботаСпециалиста</content>
+  <content>AccumulationRegister.ВКМ_ВзаиморасчетыСКлиентами</content>
+  <content>Report.ВКМ_АнализВыставленныхАктов</content>
   <subsystems>Документы</subsystems>
   <subsystems>Справочники</subsystems>
 </mdclass:Subsystem>

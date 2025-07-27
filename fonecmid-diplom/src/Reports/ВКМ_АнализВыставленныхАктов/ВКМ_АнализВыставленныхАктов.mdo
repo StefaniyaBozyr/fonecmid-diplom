@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="8fd11115-a019-49df-9a56-42ad7b9e98e5">
+  <producedTypes>
+    <objectType typeId="65963ab4-ae4f-4b73-b3c0-9c4425e8e4ae" valueTypeId="e9493824-2ac7-49e7-8bdd-c89c7f0c453f"/>
+    <managerType typeId="afd0a72c-c9ac-4d42-9f79-4e61bb2649cd" valueTypeId="c2c66307-79af-4bc1-9235-f6a2e0643ccc"/>
+  </producedTypes>
+  <name>ВКМ_АнализВыставленныхАктов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Анализ выставленных актов</value>
+  </synonym>
+  <comment>Бозырь С.Р. 27.07.2025</comment>
+  <useStandardCommands>true</useStandardCommands>
+  <mainDataCompositionSchema>Report.ВКМ_АнализВыставленныхАктов.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
+  <templates uuid="b90b6097-32d0-45f7-a2d4-f652aa0da7c2">
+    <name>ОсновнаяСхемаКомпоновкиДанных</name>
+    <synonym>
+      <key>ru</key>
+      <value>Основная схема компоновки данных</value>
+    </synonym>
+    <templateType>DataCompositionSchema</templateType>
+  </templates>
+</mdclass:Report>

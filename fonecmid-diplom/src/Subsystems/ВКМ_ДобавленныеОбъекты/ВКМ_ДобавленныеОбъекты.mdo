@@ -45,4 +45,6 @@
   <content>Report.ВКМ_РасчетыССотрудниками</content>
   <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
   <content>InformationRegister.ВКМ_ОтпускаСотрудников</content>
+  <content>AccumulationRegister.ВКМ_ВзаиморасчетыСКлиентами</content>
+  <content>Report.ВКМ_АнализВыставленныхАктов</content>
 </mdclass:Subsystem>

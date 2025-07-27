@@ -60,19 +60,6 @@
       <maxValue xsi:type="core:UndefinedValue"/>
       <fillValue xsi:type="core:UndefinedValue"/>
     </attributes>
-    <attributes uuid="212c3141-db75-41fa-b1e2-1d0e113edb5b">
-      <name>ЗаказПокупателя</name>
-      <synonym>
-        <key>ru</key>
-        <value>Заказ покупателя</value>
-      </synonym>
-      <type>
-        <types>DocumentRef.ЗаказПокупателя</types>
-      </type>
-      <minValue xsi:type="core:UndefinedValue"/>
-      <maxValue xsi:type="core:UndefinedValue"/>
-      <fillValue xsi:type="core:UndefinedValue"/>
-    </attributes>
     <attributes uuid="f726d6df-206f-4bc9-989d-81f8d314cf29">
       <name>Проведен</name>
       <synonym>

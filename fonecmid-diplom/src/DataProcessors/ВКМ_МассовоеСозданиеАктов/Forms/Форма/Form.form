@@ -281,9 +281,6 @@
       <userVisible>
         <common>true</common>
       </userVisible>
-      <dataPath xsi:type="form:DataPath">
-        <segments>Объект.Договоры.ЗаказПокупателя</segments>
-      </dataPath>
       <extendedTooltip>
         <name>ДоговорыЗаказПокупателяРасширеннаяПодсказка</name>
         <id>32</id>
@@ -308,7 +305,6 @@
         <autoMaxWidth>true</autoMaxWidth>
         <autoMaxHeight>true</autoMaxHeight>
         <wrap>true</wrap>
-        <extendedEditMultipleValues>true</extendedEditMultipleValues>
         <chooseType>true</chooseType>
         <typeDomainEnabled>true</typeDomainEnabled>
         <textEdit>true</textEdit>
