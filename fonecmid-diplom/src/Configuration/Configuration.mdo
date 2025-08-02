@@ -643,6 +643,10 @@
   <roles>Role.ВКМ_ДобавлениеИзменениеГрафиковРаботы</roles>
   <roles>Role.ВКМ_ЧтениеУсловийОплатыСотрудников</roles>
   <roles>Role.ВКМ_ДобавлениеИзменениеУсловийОплатыСотрудников</roles>
+  <roles>Role.ВКМ_ПросмотрАнализаВыставленныхАктов</roles>
+  <roles>Role.ВКМ_ПодсистемаВКМ_ОбслуживаниеКлиентов</roles>
+  <roles>Role.ВКМ_ПодсистемаВКМ_РасчетыССотрудниками</roles>
+  <roles>Role.ВКМ_ИзменениеКонстантАбонентскогоОбслуживания</roles>
   <commonTemplates>CommonTemplate.ДанныеПечатиОбщиеРеквизиты</commonTemplates>
   <commonTemplates>CommonTemplate.ДанныеПечатиРегистрСимволов</commonTemplates>
   <commonTemplates>CommonTemplate.ИнструкцияКакВыполнитьНастройкуМакетаOfficeOpen</commonTemplates>

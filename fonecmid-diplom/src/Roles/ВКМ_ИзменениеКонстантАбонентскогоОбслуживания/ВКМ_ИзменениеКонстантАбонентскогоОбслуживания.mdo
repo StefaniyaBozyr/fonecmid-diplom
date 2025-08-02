@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b98e5e5f-e262-4d20-8fbc-933bfd84013d">
+  <name>ВКМ_ИзменениеКонстантАбонентскогоОбслуживания</name>
+  <synonym>
+    <key>ru</key>
+    <value>Изменение констант абонентского обслуживания</value>
+  </synonym>
+  <comment>Бозырь С.Р. 28.07.2025</comment>
+</mdclass:Role>

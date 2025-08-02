@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="08bdea72-e978-4986-b3ce-22b0d2884977">
+  <name>ВКМ_ПодсистемаВКМ_РасчетыССотрудниками</name>
+  <synonym>
+    <key>ru</key>
+    <value>Подсистема ВКМ расчеты с сотрудниками</value>
+  </synonym>
+  <comment>Бозырь С.Р. 28.07.2025</comment>
+</mdclass:Role>
