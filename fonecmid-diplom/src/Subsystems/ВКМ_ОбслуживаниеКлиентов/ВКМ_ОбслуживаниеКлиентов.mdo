@@ -22,6 +22,10 @@
   <content>Constant.ВКМ_НоменклатураРаботаСпециалиста</content>
   <content>AccumulationRegister.ВКМ_ВзаиморасчетыСКлиентами</content>
   <content>Report.ВКМ_АнализВыставленныхАктов</content>
-  <subsystems>Документы</subsystems>
-  <subsystems>Справочники</subsystems>
+  <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
+  <content>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы</content>
+  <content>Catalog.Контрагенты</content>
+  <content>Catalog.ДоговорыКонтрагентов</content>
+  <content>Document.РеализацияТоваровУслуг</content>
+  <content>Document.ВКМ_ОбслуживаниеКлиента</content>
 </mdclass:Subsystem>
